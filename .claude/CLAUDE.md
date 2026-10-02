@@ -57,8 +57,8 @@ write scripts, captions, ads or bios:
 
 ## Skills in this repo that matter most
 
-- `skills/meta-ads` — Instagram/Facebook ad structure and copy
-- `skills/yuv-reel-covers` — Reel cover and thumbnail system
+- `skills/meta-ads` — ad structure and copy, adapted for Instagram and TikTok (skip Facebook)
+- `skills/yuv-reel-covers` — cover and thumbnail system for Instagram Reels and TikTok videos
 - `skills/yuv-viral-video`, `skills/video-edit` — short-form editing, captions, pacing
 - `skills/image-master` — image prompts and series consistency for my photos
 - `skills/yuv-design-system` — adapt into *my* palette and typography
