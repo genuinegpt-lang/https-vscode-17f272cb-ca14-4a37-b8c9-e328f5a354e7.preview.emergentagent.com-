@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="DFW Total Remodeling mark">
+  <rect width="120" height="120" rx="16" fill="#1C2B27"/>
+  <!-- roofline -->
+  <path d="M22 62 L60 26 L98 62" fill="none" stroke="#B8893B" stroke-width="9" stroke-linecap="square" stroke-linejoin="miter"/>
+  <!-- level line with bubble: precision / "plumb and true" -->
+  <rect x="26" y="78" width="68" height="14" rx="3" fill="#F3EFE6"/>
+  <rect x="52" y="81" width="16" height="8" rx="4" fill="#1C2B27"/>
+  <circle cx="60" cy="85" r="2.6" fill="#B8893B"/>
+</svg>

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DFW Total Remodeling Brand Sheet</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;800&family=Inter:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="tokens.css">
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:400 var(--font-size-base)/1.5 var(--font-body)}
+main{max-width:960px;margin:0 auto;padding:var(--space-6) 16px var(--space-12)}
+h1,h2{font-family:var(--font-display);font-weight:800;line-height:1.1;margin:var(--space-8) 0 var(--space-4)}
+h1{font-size:var(--font-size-hero)} h2{font-size:var(--font-size-xl)}
+.sub{color:var(--color-muted);max-width:60ch}
+.logos{display:grid;gap:var(--space-4);grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.card{border-radius:var(--radius-md);padding:var(--space-6);display:flex;align-items:center;justify-content:center;min-height:140px}
+.card img{max-width:100%;height:auto}
+.dark{background:var(--color-ink)} .light{background:var(--color-white);box-shadow:var(--shadow-md)}
+.rev{background:var(--color-ink)}
+.sw{display:grid;gap:var(--space-4);grid-template-columns:repeat(auto-fit,minmax(140px,1fr))}
+.sw div{border-radius:var(--radius-md);padding:var(--space-4);min-height:110px;display:flex;flex-direction:column;justify-content:flex-end;font-size:var(--font-size-sm);font-weight:500}
+.sw b{font-family:var(--font-display);font-size:1rem}
+.btn{display:inline-block;background:var(--cta-bg);color:var(--cta-text);padding:14px 24px;min-height:44px;border-radius:var(--radius-sm);font-weight:700;text-decoration:none}
+.btn:focus-visible{outline:3px solid var(--color-slate);outline-offset:3px}
+.hero{background:var(--color-ink);color:var(--color-limestone);border-radius:var(--radius-md);padding:var(--space-8) var(--space-6)}
+.hero h3{font:800 var(--font-size-xl)/1.1 var(--font-display);margin:0 0 var(--space-2)}
+.hero .eyebrow{color:var(--color-brass);font:600 var(--font-size-sm) var(--font-display);letter-spacing:.2em;text-transform:uppercase;margin-bottom:var(--space-2)}
+</style></head><body><main>
+<h1>DFW Total Remodeling</h1>
+<p class="sub">Brand sheet v1. Concept identity; not trademark-cleared. See BRAND-GUIDE.md.</p>
+
+<h2>Logo</h2>
+<div class="logos">
+  <div class="card light"><img src="logo/primary.svg" alt="Primary lockup on white" width="360"></div>
+  <div class="card dark"><img src="logo/primary-reversed.svg" alt="Reversed lockup on dark" width="360"></div>
+  <div class="card light"><img src="logo/mark.svg" alt="Mark" width="96"></div>
+</div>
+
+<h2>Color</h2>
+<div class="sw">
+  <div style="background:#1c2b27;color:#f3efe6"><b>Foundation</b>#1C2B27</div>
+  <div style="background:#f3efe6;color:#1c2b27;border:1px solid #1c2b2722"><b>Limestone</b>#F3EFE6</div>
+  <div style="background:#b8893b;color:#1c2b27"><b>Brass</b>#B8893B</div>
+  <div style="background:#8a5f1c;color:#fff"><b>Deep Brass</b>#8A5F1C</div>
+  <div style="background:#9a3e21;color:#fff"><b>Clay (CTA)</b>#9A3E21</div>
+  <div style="background:#2f4b5c;color:#fff"><b>Slate</b>#2F4B5C</div>
+</div>
+
+<h2>In use</h2>
+<div class="hero">
+  <div class="eyebrow">Kitchens · Baths · Whole-home</div>
+  <h3>Built right. Start to finish.</h3>
+  <p style="max-width:48ch">One point of contact, a written scope, and a clean jobsite across Dallas–Fort Worth.</p>
+  <a class="btn" href="#">Get a written estimate</a>
+</div>
+</main></body></html>
