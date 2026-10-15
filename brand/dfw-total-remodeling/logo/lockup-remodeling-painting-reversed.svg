@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 120" role="img" aria-label="DFW Total Remodeling &amp; Painting">
+  <rect width="120" height="120" rx="16" fill="#F3EFE6"/>
+  <path d="M22 62 L60 26 L98 62" fill="none" stroke="#8A5F1C" stroke-width="9" stroke-linecap="square"/>
+  <rect x="26" y="78" width="68" height="14" rx="3" fill="#1C2B27"/>
+  <rect x="52" y="81" width="16" height="8" rx="4" fill="#F3EFE6"/>
+  <circle cx="60" cy="85" r="2.6" fill="#B8893B"/>
+  <!-- Live text: convert to outlines before print or vendor handoff -->
+  <text x="140" y="68" font-family="Archivo, Arial Narrow, Arial, sans-serif" font-weight="800" font-size="54" letter-spacing="1" fill="#F3EFE6">DFW TOTAL</text>
+  <text x="140" y="100" font-family="Archivo, Arial, sans-serif" font-weight="600" font-size="26" letter-spacing="5" fill="#B8893B">REMODELING &amp; PAINTING</text>
+</svg>

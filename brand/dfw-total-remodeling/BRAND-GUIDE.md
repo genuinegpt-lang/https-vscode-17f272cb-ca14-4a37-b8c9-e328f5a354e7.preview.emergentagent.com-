@@ -4,7 +4,7 @@ Built with the repo skills: `ux-design-systems` (tokens), `web-accessibility` (c
 
 ## 0. Read this first: what I assumed and where I disagree
 
-I know only the name. Everything below assumes a **full-service residential remodeler in Dallas–Fort Worth** (kitchens, baths, additions, whole-home) selling to **homeowners**. If you do commercial, flips, or one trade, the positioning changes. Tell me and I'll redo section 1.
+I know only that it is a **remodeling and paint company in Dallas–Fort Worth**. Everything below assumes **residential**: kitchens, baths, additions, whole-home, plus interior/exterior painting and cabinet refinishing, sold to **homeowners**. If you do commercial, flips, or one trade, the positioning changes. Tell me and I'll redo section 1.
 
 1. **The name is weak as a brand, strong as a search term.** "Total Remodeling" is generic; dozens of companies use it, and "DFW" is a region, not an identity. It will rank for local intent but it won't be remembered. Before you spend on signage or a logo: check the Texas SOS entity search, the domain, and a trademark search. Don't print trucks until that's done.
 2. **"Total" is a promise.** It implies one team handles everything. If you subcontract plumbing/electrical (most do), say "we manage every trade" rather than "we do everything". Overclaiming is the fastest way to a bad review.
@@ -95,3 +95,52 @@ Why: it avoids the blue-and-orange look of most contractor logos, and earthy ton
 
 ## 8. What I need from you to finish v2
 1. Services and price tier (budget, mid, premium)? 2. Cities you actually serve. 3. How many years, crew size, licensed trades in-house vs subbed. 4. Existing logo/colors/website? 5. Real project photos. 6. Who is the owner/face of the brand (people trust faces).
+
+---
+
+## 9. v1.1 — Remodeling **and** Painting
+
+### The name decision (you need to make this)
+You said "remodeling and paint company". The legal/brand name matters more now:
+- **Keep "DFW Total Remodeling" as the brand; say "& Painting" as the descriptor.** Recommended. Painters rarely get hired to remodel, but remodelers can win painting, so the bigger word leads. Lockups are in `logo/lockup-remodeling-painting*.svg`.
+- **Don't name it "...Remodeling & Paint" in the legal name** unless you want it on every invoice, truck and Google listing forever. Descriptors are cheaper to change than names.
+- **Risk:** if painting is most of your revenue, "Total Remodeling" will attract the wrong leads and the wrong price expectations. Tell me the revenue split and I'll flip the hierarchy if needed.
+
+### Offer architecture
+| Tier | Service | Role in the business |
+|---|---|---|
+| Entry | Interior painting, exterior painting, cabinet refinishing, color consult | Fast, lower ticket, high volume, earns trust and reviews |
+| Core | Kitchen & bath remodels | Highest margin per client relationship |
+| Anchor | Whole-home / additions | Rare, big, comes from referrals |
+
+**The funnel:** paint jobs are your cheapest way to get inside a home and prove you're clean, on time, and honest. Every painting client should leave knowing you remodel (a "while we're here" review at walkthrough, never a hard sell).
+
+### Positioning line, updated
+"The DFW remodeler that also paints, so one crew, one contact, and one finished look from rough-in to final coat."
+Short version for ads: **"Remodeling & painting, handled start to finish."**
+
+### Paint-specific proof points (verify each before using)
+- **Lead-safe work:** homes built before 1978 fall under the EPA Renovation, Repair and Painting (RRP) rule. If you work on pre-1978 homes you need EPA-certified firm and renovator status. This is both a legal requirement and a trust signal, but only claim it if you hold it.
+- **Texas conditions:** UV and heat chew exterior paint; humidity and foundation movement crack trim and caulk lines. Educational content on prep (pressure wash, scrape, prime, caulk) is believable and differentiating.
+- **Specs in writing:** paint brand and line, number of coats, prep scope, color name/code, sheen, and what's included (trim, ceilings, closets). Vague paint quotes are why homeowners distrust painters.
+- **Warranty:** only state one you will honor, in plain language.
+
+### Visual additions
+- **Swatch strip device:** a row of 4 to 6 small squares in the brand palette (see `brand-sheet.html`), used as a divider, on estimates, and as the Reel end-card. Says "paint" without a clichéd roller icon.
+- **Before/after for paint:** same wall, same light, color name overlaid as a chip (e.g. "Walls: [real color name]").
+- Truck/crew: painting crew in the same Foundation workwear; tarps and floor protection photographed as a feature.
+
+### Content pillars, updated for paint
+1. **Color transformations** (one-room Reels, 7–10 s, color name and sheen on screen)
+2. **Prep is the job** (the 70% nobody sees: patching, sanding, priming)
+3. **Cabinet refinishing vs replacing** (honest cost/durability tradeoff)
+4. **Exterior in Texas heat** (what fails first and why)
+5. **Remodel timelines** (carry over from section 6)
+
+**Hooks to test:** "Why your exterior paint is peeling in 3 years (and it isn't the paint)." · "Refinish or replace your kitchen cabinets? Here's the honest math." · "What a painter should put in writing before they open a can."
+
+### Paid, adjusted
+Run painting as the lead-gen offer ("free color consult and written estimate") and remodel as the retargeting/nurture offer. Painting leads convert faster and cost less, which gives you data sooner. Same Meta housing-category limits apply.
+
+### Still needed
+Revenue split paint vs remodel, in-house painters vs subs, residential only or also commercial/HOA, service cities, and whether you already hold RRP certification.
